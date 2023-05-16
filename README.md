@@ -1,3 +1,14 @@
+# Linguagens
+
+
+# Aprendizados
+
+01 - Entendendo o problema
+
+Boas práticas de UX ao trabalharmos com formulários
+
+Por que separar um formulário em muitas partes
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
