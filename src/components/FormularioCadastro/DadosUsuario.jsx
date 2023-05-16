@@ -27,7 +27,7 @@ function DadosUsuario() {
                 variant="contained" 
                 color="primary"
             > 
-                Cadastrar 
+            Cadastrar 
             </Button>
         </form>
 
