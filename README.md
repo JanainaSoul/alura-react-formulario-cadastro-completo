@@ -1,5 +1,10 @@
 # Linguagens
 
+JavaScript
+
+HTML
+
+CSS
 
 # Aprendizados
 
