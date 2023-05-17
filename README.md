@@ -38,6 +38,16 @@ Ciclo de vida dos componentes funcionais
 
 Como utilizar o componente Stepper do MaterialUI
 
+04 - Contextos e Providers
+
+Extraindo lógica da parte de renderização
+
+Boas práticas na reutilização de funcionalidades
+
+Usando contextos no React para resolver o problema de prop drilling
+
+Problemas de informações demais e complexidade de código
+
 # Para saber mais 
 
 Para saber mais
