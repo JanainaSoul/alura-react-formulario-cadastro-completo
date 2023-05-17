@@ -4,6 +4,8 @@ import { useEffect } from "react";
 import DadosEntrega from "./DadosEntrega";
 import DadosPessoais from "./DadosPessoais";
 import DadosUsuario from "./DadosUsuario";
+//import ValidacoesCadastro from './context/ValidacoesCadastro'
+
 
 function FormularioCadastro({aoEnviar}) {
   const [etapaAtual, setEtapaAtual] = useState(0); //função assincrona
