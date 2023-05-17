@@ -28,6 +28,16 @@ Reutilização de componentes
 
 Refatoração do Switch case e melhores estruturas de código
 
+03 - controlando ciclo de vida 
+
+Como lidar com problemas de assincronicidade
+
+Quando usar o Hook de UseEffect
+
+Ciclo de vida dos componentes funcionais
+
+Como utilizar o componente Stepper do MaterialUI
+
 # Para saber mais 
 
 Para saber mais
