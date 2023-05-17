@@ -18,11 +18,11 @@ class App extends Component {
           Formulário de cadastro
         </Typography>
         <ValidacoesCadastro.Provider
-        value={{cpf:validarCPF, senha:validarSenha, nome:validarSenha }}>
+          value={{cpf:validarCPF, senha:validarSenha, nome:validarSenha }}
+        >
           <FormularioCadastro aoEnviar={aoEnviarForm} />
       </ValidacoesCadastro.Provider>
-      
-      </Container>
+    </Container>
     );
   }
 }
